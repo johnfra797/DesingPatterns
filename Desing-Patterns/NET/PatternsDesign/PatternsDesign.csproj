@@ -42,6 +42,19 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Behavioral\command\Cuenta.cs" />
+    <Compile Include="Behavioral\command\Depositar.cs" />
+    <Compile Include="Behavioral\command\Invocar.cs" />
+    <Compile Include="Behavioral\command\IOperacion.cs" />
+    <Compile Include="Behavioral\command\Retirar.cs" />
+    <Compile Include="Behavioral\memento\CareTaker.cs" />
+    <Compile Include="Behavioral\memento\Momento.cs" />
+    <Compile Include="Behavioral\memento\Originator.cs" />
+    <Compile Include="Behavioral\observer\BSFVE.cs" />
+    <Compile Include="Behavioral\observer\CasaDeCambio.cs" />
+    <Compile Include="Behavioral\observer\Observador.cs" />
+    <Compile Include="Behavioral\observer\PESOARG.cs" />
+    <Compile Include="Behavioral\observer\SOLPER.cs" />
     <Compile Include="Creational\abstract_factory\Abstract_Factory.cs" />
     <Compile Include="Creational\abstract_factory\EnumTypesFactory.cs" />
     <Compile Include="Creational\abstract_factory\IFabricaAbstracta.cs" />
@@ -61,6 +74,15 @@
     <Compile Include="Behavioral\strategy\Gato.cs" />
     <Compile Include="Behavioral\strategy\MainStrategy.cs" />
     <Compile Include="Behavioral\strategy\Perro.cs" />
+    <Compile Include="Structural\Decorator\AccesoriosAvanzados.cs" />
+    <Compile Include="Structural\Decorator\AccesoriosBasicos.cs" />
+    <Compile Include="Structural\Decorator\CarroDecorator.cs" />
+    <Compile Include="Structural\Decorator\CarroEconomico.cs" />
+    <Compile Include="Structural\Decorator\CarroLujo.cs" />
+    <Compile Include="Structural\Decorator\ICarro.cs" />
+    <Compile Include="Structural\Proxy\Dolar.cs" />
+    <Compile Include="Structural\Proxy\IPrecio.cs" />
+    <Compile Include="Structural\Proxy\ProxyAPI.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

@@ -5,3 +5,10 @@ C:\Users\JHON DAVID CASTILLO\source\repos\PatternsDesign\PatternsDesign\obj\Debu
 C:\Users\JHON DAVID CASTILLO\source\repos\PatternsDesign\PatternsDesign\obj\Debug\PatternsDesign.csproj.CoreCompileInputs.cache
 C:\Users\JHON DAVID CASTILLO\source\repos\PatternsDesign\PatternsDesign\obj\Debug\PatternsDesign.exe
 C:\Users\JHON DAVID CASTILLO\source\repos\PatternsDesign\PatternsDesign\obj\Debug\PatternsDesign.pdb
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\DesingPatterns\Desing-Patterns\NET\PatternsDesign\bin\Debug\PatternsDesign.exe.config
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\DesingPatterns\Desing-Patterns\NET\PatternsDesign\bin\Debug\PatternsDesign.exe
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\DesingPatterns\Desing-Patterns\NET\PatternsDesign\bin\Debug\PatternsDesign.pdb
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\DesingPatterns\Desing-Patterns\NET\PatternsDesign\obj\Debug\PatternsDesign.csprojAssemblyReference.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\DesingPatterns\Desing-Patterns\NET\PatternsDesign\obj\Debug\PatternsDesign.csproj.CoreCompileInputs.cache
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\DesingPatterns\Desing-Patterns\NET\PatternsDesign\obj\Debug\PatternsDesign.exe
+C:\Users\JHON DAVID CASTILLO\Desktop\developer-2018\GITHUB\DesingPatterns\Desing-Patterns\NET\PatternsDesign\obj\Debug\PatternsDesign.pdb
