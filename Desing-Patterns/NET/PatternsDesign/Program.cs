@@ -2,10 +2,12 @@
 using PatternsDesign.Behavioral.memento;
 using PatternsDesign.Behavioral.observer;
 using PatternsDesign.Creational.abstract_factory;
+using PatternsDesign.Creational.builder;
 using PatternsDesign.Creational.factory;
 using PatternsDesign.singleton;
 using PatternsDesign.strategy;
 using PatternsDesign.Structural;
+using PatternsDesign.Structural.DAO;
 using PatternsDesign.Structural.Proxy;
 using System;
 using System.Collections.Generic;
@@ -125,7 +127,7 @@ namespace PatternsDesign
             #endregion
 
             #region Behavioral Observer
-            CasaDeCambio casaDeCambio = new CasaDeCambio();
+            /*CasaDeCambio casaDeCambio = new CasaDeCambio();
             new PESOARG(casaDeCambio);
             new SOLPER(casaDeCambio);
             new BSFVE(casaDeCambio);
@@ -143,10 +145,18 @@ namespace PatternsDesign
             estado = 50;
             Console.WriteLine($"Set estado {estado}");
 
-            casaDeCambio.SetEstado(estado);
+            casaDeCambio.SetEstado(estado);*/
 
             #endregion
 
+            #region Structural DAO
+           // MainDAO mainDAO = new MainDAO();
+            #endregion
+
+            #region Creational Builder
+            //MainBuilder mainBuilder = new MainBuilder();
+            MainBuilderII AutomovilBuilder = new MainBuilderII();
+            #endregion
             Console.ReadKey();
         }
     }

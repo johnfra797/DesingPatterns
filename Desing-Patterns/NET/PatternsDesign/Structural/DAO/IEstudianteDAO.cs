@@ -6,14 +6,9 @@ using System.Threading.Tasks;
 
 namespace PatternsDesign.Structural.DAO
 {
-    interface IEstudianteDAO
+    public interface IEstudianteDAO : ICRUD<Estudiante>
     {
-
-        List<Estudiante> ObtenerTodos();
         List<Estudiante> ObtenerEstudianteXEdad(int edad);
-        void actualizarEstudiante(Estudiante estudiante);
-        void borrarEstudiante(Estudiante estudiante);
-        void AgregarEstudiante(Estudiante estudiante);
 
     }
 }
